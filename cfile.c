@@ -5,6 +5,7 @@ int main(){
                 case1:printf("btech aiml");
 		      break;
 		 case2:printf("btech cse");
+		       printf("btech cse");
 		       break;
 		 case3:printf("btech ece");
 		      break;
