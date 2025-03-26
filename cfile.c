@@ -6,3 +6,6 @@ int main(){
 		      break;
 		 case2:printf("btech cse");
 		       break;
+		 case3:printf("btech ece");
+		       break;
+
