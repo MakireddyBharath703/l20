@@ -7,5 +7,7 @@ int main(){
 		 case2:printf("btech cse");
 		       break;
 		 case3:printf("btech ece");
+		      break;
+		 case4:printf("btech ds");
 		       break;
 
