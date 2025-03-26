@@ -9,5 +9,6 @@ int main(){
 		 case3:printf("btech ece");
 		      break;
 		 case4:printf("btech ds");
+		       printf("btech ds");
 		       break;
 
